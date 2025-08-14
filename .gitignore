@@ -1,2 +1,7 @@
 node_modules/
 bak/
+.vscode
+users.json
+SyncContainerData.dat
+SyncContainerData.json
+dist/
